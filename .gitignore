@@ -1,5 +1,6 @@
 # Datasets (archivos pesados - no subir al repo)
 *.csv
+!exports_tableau/*.csv
 archivos/
 archivos_enriquecidos/
 
