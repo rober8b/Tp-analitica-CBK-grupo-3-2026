@@ -1,0 +1,22 @@
+seller_id,segment,industry,entity_type,total_ordenes,total_cbk,cbk_rate_pct,perdida_total,ranking_riesgo
+33c51922b6e3c16b24a8f28e5833c99d,Gold,Salud y Belleza,PJ,20,3,15.0,-53.33,1
+5bc55dbe2f12b6af6d83ed46023e0dc8,Gold,Deportes y Actividades,PJ,21,3,14.29,-67.6,2
+bf00385a5f7fc1ef39a13c2e9ee50a5f,Platinum,Electrónica y Tecnología,PF,29,4,13.79,-58.43,3
+5075aaa8404020ae6aa8bf4792099b41,Gold,Comercio General,PF,23,3,13.04,-37.63,4
+8fdca8e349553f99bc738833a62c8802,Platinum,Electrónica y Tecnología,PJ,29,3,10.34,-41.52,5
+b2ac621f0d0322434d04a12b078b9369,Platinum,Comercio General,PJ,30,3,10.0,-71.73,6
+323ce52b5b81df2cd804b017b7f09aa7,Platinum,Comercio General,PJ,30,3,10.0,-32.21,6
+099095b050cfe8eb1ddff5317587e96e,Gold,Comercio General,PF,20,2,10.0,-21.64,6
+b4f8921fcc4ff77b66bea6dda43dcd51,Gold,Comercio General,PF,20,2,10.0,-3.0,6
+ffdd9f82b9a447f6f8d4b91554cc7dd3,Gold,Comercio General,PF,20,2,10.0,-35.38,6
+fa1a9dec3a9940c072684a46728bf1fc,Platinum,Comercio General,PF,60,6,10.0,-82.57,6
+3dbbce181edfaa4a597ec858c382d2ec,Gold,Libros y Medios,PF,20,2,10.0,-43.48,6
+cfa5ab0e4d3fc212fd0b3410e7081c62,Gold,Jardines y Exteriores,PF,21,2,9.52,-21.84,13
+4305fe92735c8a43d154ff6dd2b8d927,Gold,Deportes y Actividades,PJ,21,2,9.52,-36.4,13
+b56906f7fd1696e043f1bcce164c487b,Platinum,Comercio General,PF,42,4,9.52,-94.9,13
+41da412d33e8da4f22baf55cb1bde82c,Gold,Deportes y Actividades,PF,21,2,9.52,-40.55,13
+3586b8580d9c917874e053a1bb37b5ff,Platinum,Comercio General,PF,43,4,9.3,-131.42,17
+42fa4ee7240e9b8eb4576358ec142ba7,Gold,Comercio General,PJ,22,2,9.09,-39.74,18
+3c487ae8f8d7542beff5788e2e0aea83,Platinum,Moda y Vestuario,PF,33,3,9.09,-69.6,18
+412a4720f3e9431b4afa1476a1acddbe,Gold,Deportes y Actividades,PJ,22,2,9.09,-3.0,18
+f4db9b37944bcb8873e6b456ee190bbf,Gold,Moda y Vestuario,PF,22,2,9.09,-50.3,18
