@@ -1,0 +1,18 @@
+# Datasets (archivos pesados - no subir al repo)
+*.csv
+archivos/
+archivos_enriquecidos/
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+*.pyo
+.env
+venv/
