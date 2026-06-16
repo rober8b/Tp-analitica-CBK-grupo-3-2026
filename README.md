@@ -31,10 +31,18 @@ Análisis completo del riesgo operacional por Chargebacks (CBK) en la plataforma
 └── Data_Dictionary_ESTUDIANTES.md
 ```
 
-## Dashboards Tableau Public
+## Dashboards Interactivos
 
-- Dashboard 1 — Mapa de Riesgo CBK: _[link a completar]_
-- Dashboard 2 — Predictores y Evolución: _[link a completar]_
+- **Dashboard 1 — Mapa de Riesgo CBK**: https://raw.githubusercontent.com/rober8b/Tp-analitica-CBK-grupo-3-2026/main/dashboard1_riesgo_cbk.html
+  - Análisis de CBK por categoría de producto
+  - Distribución de pérdidas por categoría
+  - Visualización interactiva de riesgo operacional
+
+- **Dashboard 2 — Predictores y Evolución**: https://raw.githubusercontent.com/rober8b/Tp-analitica-CBK-grupo-3-2026/main/dashboard2_predictores_evolucion.html
+  - Evolución temporal de CBK (2016-2018)
+  - CBK rate por número de cuotas de pago
+  - Top 10 sellers con mayor riesgo de chargeback
+  - Escenario de impacto: reducción del 50% en CBK
 
 ## Datos
 
